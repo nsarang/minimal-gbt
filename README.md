@@ -2,7 +2,7 @@
 
 A minimal implementation of Gradient Boosted Trees (LightGBM/XGBoost/CatBoost) built from scratch for educational purposes and experimentation.
 
-**Blog post with full explanation:** [link-to-your-blog-post]
+**Blog post with full explanation:** [Implementing Gradient Boosted Tree Algorithms from Scratch - LightGBM, XGBoost, CatBoost](https://nimasarang.com/blog/2025-12-14-gbt-algorithms/)
 
 ## Features
 
